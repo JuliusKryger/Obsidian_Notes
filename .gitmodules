@@ -1,3 +1,15 @@
 [submodule "ruc_sem1/portfolio_01"]
 	path = ruc_sem1/portfolio_01
 	url = https://github.com/RUC-MSc-CS-CIT-2024/portfolio_subproject_1.git
+[submodule "ruc_sem1/portfolio_01/source_code"]
+	path = ruc_sem1/portfolio_01/source_code
+	url = https://github.com/RUC-MSc-CS-CIT-2024/portfolio_subproject_1.git
+[submodule "ruc_sem1/portofolio_01/source_code"]
+	path = ruc_sem1/portofolio_01/source_code
+	url = https://github.com/RUC-MSc-CS-CIT-2024/portfolio_subproject_1.git
+[submodule "ruc_sem1/portofolio_02/source_code"]
+	path = ruc_sem1/portofolio_02/source_code
+	url = https://github.com/RUC-MSc-CS-CIT-2024/portfolio_subproject_2.git
+[submodule "ruc_sem1/portofolio_03/source_code"]
+	path = ruc_sem1/portofolio_03/source_code
+	url = https://github.com/RUC-MSc-CS-CIT-2024/portfolio_subproject_3.git
