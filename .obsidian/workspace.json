@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "10016ab8df69646e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fed646de0c516d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d5b7d24549af258",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "655a6475c43abe6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "708b10eb7718cc94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb4a4dd2053a32cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0fce34eddedf134",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "98fc21ce6837cf91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3c38f2d825ca830",
+    "type": "split",
+    "children": [
+      {
+        "id": "be73cc804d7d8eaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6c3cebaeac9648a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ruc_sem2/data_and_things/exam/Exam for Data and Things, spring 2025, initial version.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Exam for Data and Things, spring 2025, initial version"
+            }
+          },
+          {
+            "id": "d8617bd270ba8379",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ruc_sem1/exam/exam_notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from exam_notes"
+            }
+          },
+          {
+            "id": "583ccda52dab81ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9c4f7884fe809456",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ruc_sem1/exam/exam_notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of exam_notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9d5b7d24549af258",
+  "lastOpenFiles": [
+    "README.md",
+    "ruc_sem2/data_and_things/README.md",
+    "ruc_sem2/data_and_things/data_and_things/README.md",
+    "ruc_sem2/data_and_things/data_and_things",
+    "ruc_sem2/data_and_things/exam/Exam for Data and Things, spring 2025, initial version.pdf",
+    "ruc_sem2/data_and_things/19-02-2025 - IoT & Sensor Data/IoT  Sensor Data.pdf",
+    "ruc_sem2/data_and_things/12-02-2025 - Time Series/Time Series Analysis.pdf",
+    "ruc_sem2/data_and_things/10-02-2025 - Statistics/Slides 4; DT 25; Statistics (2025-02-10).pdf",
+    "ruc_sem2/data_and_things/07-02-2025 - Data Engineering/Data Engineering.pdf",
+    "ruc_sem2/data_and_things/05-02-2025 - Data Transformation/Slides 2; DT 25; Data transformation and EDA (2025-02-05).pdf",
+    "ruc_sem2/data_and_things/03-02-2025 - Introduction/Slides 1; DT 25; Introduction (2025-02-03).pdf",
+    "ruc_sem2/data_and_things/19-02-2025 - IoT & Sensor Data/IoT  Sensor Data.pptx",
+    "ruc_sem2/data_and_things/12-02-2025 - Time Series/Time Series Analysis 1.pptx",
+    "ruc_sem2/data_and_things/Course Material links.md",
+    "ruc_sem2/data_and_things/Notebooks & Files.md",
+    "ruc_sem2/data_and_things/Files/03-02-2025/Content.md",
+    "ruc_sem2/data_and_things/Files/Untitled.md",
+    "ruc_sem2/data_and_things/Untitled.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_3_examination_subjects/3.8 Forms and Inputs in React.md",
+    "Welcome.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_2_examination_subjects/2.2 Object Relational Mapping.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_1_examination_subjects/1.4 Join in SQL.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_1_examination_subjects/1.8 SQL Triggers.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_3_examination_subjects/3.12 Cross-Site Scripting (XSS).md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_3_examination_subjects/3.11 HTML, CSS, Bootstrap.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_3_examination_subjects/3.10 Client-side Routing.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_3_examination_subjects/3.7 React Hooks.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_3_examination_subjects/3.6 State in React.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_3_examination_subjects/3.5 React and JSX.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_3_examination_subjects/3.4 React.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_1_examination_subjects/1.2 Normalization.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_1_examination_subjects/1.11 SQL Injection.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_1_examination_subjects/1.10 Textual Data & Information Retrieval (IR).md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_1_examination_subjects/1.9 SQL Indexing.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_1_examination_subjects/1.7 SQL Functions and Procedures.md",
+    "ruc_sem1/exam/citt_exam_subjects_e2024/section_1_examination_subjects/1.6 Nested Subqueries.md",
+    "Marek/RUC/assets/Pasted image 20250115131023.png",
+    "Marek/RUC/assets/Pasted image 20250115120112.png",
+    "Marek/RUC/assets/Pasted image 20250114152242.png",
+    "Marek/RUC/assets/Pasted image 20250117175145.png",
+    "Marek/RUC/assets/Pasted image 20250114151616.png",
+    "Marek/RUC/assets/Pasted image 20250114144231.png",
+    "Marek/RUC/assets/Pasted image 20250114143946.png",
+    "Marek/RUC/assets/Pasted image 20250114144026.png",
+    "Marek/RUC/assets/Pasted image 20250114152122.png",
+    "Marek/RUC/assets/Pasted image 20250114180538.png"
+  ]
+}
